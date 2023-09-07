@@ -5,11 +5,5 @@
             "src":"./student-data.js",
             "use":"@vercel/node"
         }
-    ],
-    "router" : [
-        {
-            "src":"/(.*)",
-            "dest":"/"
-        }
     ]
 }
